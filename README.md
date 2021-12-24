@@ -1,6 +1,9 @@
 # build_LineageOS_PE
 build a LineageOS and PixelExperience 
 
+准备：
+
+ubuntu 1804系统，磁盘200GB, RAM 10GB以上。
 
 记录LineageOS和PixelExperience从源码编译ROM
 
